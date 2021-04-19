@@ -1,4 +1,4 @@
-The-Simon-Game
+**The-Simon-Game**
 
 Get ready to watch, remember, repeat! The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels. Keep track of your score as you challenge friends or try to beat your own high score.
 
@@ -13,3 +13,4 @@ Simon is a game of memory skill. The website creates a series of tones and light
 
 Gameplay: The game has four coloured buttons, each producing a particular tone when it is pressed. A round in the game consists of the homepage lighting up one or more buttons in a random order, after which the player must reproduce that order by pressing the buttons. As the game progresses, the number of buttons to be pressed increases.
 
+![image](https://user-images.githubusercontent.com/54525553/115287958-7d901080-a16e-11eb-8fb2-c9b54824b30e.png)
